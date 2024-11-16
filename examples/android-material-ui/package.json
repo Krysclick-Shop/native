@@ -19,7 +19,7 @@
   "dependencies": {
     "@storybook/native": "link:../../packages/native",
     "@storybook/native-addon": "link:../../packages/addon",
-    "axios": "0.20.0",
+    "axios": "0.28.0",
     "change-case": "4.1.1"
   },
   "devDependencies": {
